@@ -1,0 +1,4 @@
+﻿  DealingCards.c
+c:\users\n0092\documents\visual studio 2015\projects\dealingcards\dealingcards\dealingcards.c(59): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DealingCards.vcxproj -> c:\users\n0092\documents\visual studio 2015\Projects\DealingCards\Debug\DealingCards.exe
+  DealingCards.vcxproj -> c:\users\n0092\documents\visual studio 2015\Projects\DealingCards\Debug\DealingCards.pdb (Full PDB)
