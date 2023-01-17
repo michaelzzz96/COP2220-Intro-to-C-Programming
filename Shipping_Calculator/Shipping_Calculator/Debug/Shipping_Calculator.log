@@ -1,0 +1,7 @@
+﻿  Shipping_Calculator.c
+c:\users\n0092\documents\visual studio 2015\projects\shipping_calculator\shipping_calculator\shipping_calculator.c(143): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\n0092\documents\visual studio 2015\projects\shipping_calculator\shipping_calculator\shipping_calculator.c(143): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\n0092\documents\visual studio 2015\projects\shipping_calculator\shipping_calculator\shipping_calculator.c(143): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\n0092\documents\visual studio 2015\projects\shipping_calculator\shipping_calculator\shipping_calculator.c(143): note: this argument is used as a buffer size
+  Shipping_Calculator.vcxproj -> C:\Users\n0092\Documents\Visual Studio 2015\Projects\Shipping_Calculator\Debug\Shipping_Calculator.exe
+  Shipping_Calculator.vcxproj -> C:\Users\n0092\Documents\Visual Studio 2015\Projects\Shipping_Calculator\Debug\Shipping_Calculator.pdb (Full PDB)
