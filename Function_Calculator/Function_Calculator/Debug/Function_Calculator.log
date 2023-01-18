@@ -1,0 +1,26 @@
+﻿  Function_Calculator.c
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(161): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(165): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(169): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(173): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(177): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(181): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(193): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(198): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(203): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(207): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(211): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(215): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(148): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(148): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(148): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(148): note: this argument is used as a buffer size
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(186): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(190): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(140): warning C4101: 'totalNumber': unreferenced local variable
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(141): warning C4101: 'largestNumber': unreferenced local variable
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(141): warning C4101: 'subtractNumber': unreferenced local variable
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(141): warning C4101: 'smallestNumber': unreferenced local variable
+c:\users\n0092\documents\visual studio 2015\projects\function_calculator\function_calculator\function_calculator.c(141): warning C4101: 'productNumber': unreferenced local variable
+  Function_Calculator.vcxproj -> c:\users\n0092\documents\visual studio 2015\Projects\Function_Calculator\Debug\Function_Calculator.exe
+  Function_Calculator.vcxproj -> c:\users\n0092\documents\visual studio 2015\Projects\Function_Calculator\Debug\Function_Calculator.pdb (Full PDB)
