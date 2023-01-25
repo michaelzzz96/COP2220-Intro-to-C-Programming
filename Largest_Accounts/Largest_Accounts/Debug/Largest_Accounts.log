@@ -1,0 +1,5 @@
+﻿  Largest_Accounts.c
+c:\users\n0092\documents\visual studio 2015\projects\largest_accounts\largest_accounts\largest_accounts.c(41): warning C4477: 'printf' : format string '%i' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+c:\users\n0092\documents\visual studio 2015\projects\largest_accounts\largest_accounts\largest_accounts.c(41): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 2 has type 'void (__cdecl *)(int *,double *,int,int *,double *)'
+  Largest_Accounts.vcxproj -> c:\users\n0092\documents\visual studio 2015\Projects\Largest_Accounts\Debug\Largest_Accounts.exe
+  Largest_Accounts.vcxproj -> c:\users\n0092\documents\visual studio 2015\Projects\Largest_Accounts\Debug\Largest_Accounts.pdb (Full PDB)
