@@ -1,0 +1,7 @@
+			Customers
+Name          ID               Owed
+ Mike          1          501.000000
+ John          2          601.000000
+ Jess          3          701.000000
+  Mom          4          801.000000
+  Dad          5          901.000000
