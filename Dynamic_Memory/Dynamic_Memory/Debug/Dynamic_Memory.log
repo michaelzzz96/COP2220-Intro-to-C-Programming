@@ -1,0 +1,5 @@
+﻿  Dynamic_Memory.c
+c:\users\n0092\documents\visual studio 2015\projects\dynamic_memory\dynamic_memory\dynamic_memory.c(65): warning C4013: 'tolower' undefined; assuming extern returning int
+c:\users\n0092\documents\visual studio 2015\projects\dynamic_memory\dynamic_memory\dynamic_memory.c(104): warning C4129: 'C': unrecognized character escape sequence
+  Dynamic_Memory.vcxproj -> C:\Users\n0092\Documents\Visual Studio 2015\Projects\Dynamic_Memory\Debug\Dynamic_Memory.exe
+  Dynamic_Memory.vcxproj -> C:\Users\n0092\Documents\Visual Studio 2015\Projects\Dynamic_Memory\Debug\Dynamic_Memory.pdb (Full PDB)
