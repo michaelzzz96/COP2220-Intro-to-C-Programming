@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C04E586A-56DA-4E4F-8477-C3BE16E503B9}</ProjectGuid>
+    <ProjectGuid>{BA22B030-B739-4675-8FAD-F05A9D7F85FA}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Dynamic_Memory</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
