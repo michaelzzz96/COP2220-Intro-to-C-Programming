@@ -1,3 +1,3 @@
 # COP2220-Intro-to-C-Programming
 
-Collection of projects I did in my intro to C class
+Collection of projects I did in my intro to C class. Summer 2017
